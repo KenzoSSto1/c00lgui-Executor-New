@@ -211,5 +211,5 @@ end)
 
 frame.Active = true
 frame.Draggable = true
-print ("Follow me on Roblox <3 @REALNAMEMWII2")
-print ("also follow me on ytube @Foxian_The_Creator_Fox")
+print ("Executor FE Bypass By JohnReres")
+print ("community by JohnReres")
